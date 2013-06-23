@@ -1,0 +1,8 @@
+C:\Documents and Settings\muralidharand1\My Documents\Downloads\SharpDevelopPortable\Data\SharpDevelop Projects\Cassandra_CQL_Basics\Cassandra_CQL_Basics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\muralidharand1\My Documents\Downloads\SharpDevelopPortable\Data\SharpDevelop Projects\Cassandra_CQL_Basics\Cassandra_CQL_Basics\obj\x86\Debug\Cassandra_CQL_Basics.MainForm.resources
+C:\Documents and Settings\muralidharand1\My Documents\Downloads\SharpDevelopPortable\Data\SharpDevelop Projects\Cassandra_CQL_Basics\Cassandra_CQL_Basics\obj\x86\Debug\Cassandra_CQL_Basics.csproj.GenerateResource.Cache
+C:\Documents and Settings\muralidharand1\My Documents\Downloads\SharpDevelopPortable\Data\SharpDevelop Projects\Cassandra_CQL_Basics\Cassandra_CQL_Basics\obj\x86\Debug\Cassandra_CQL_Basics.exe
+C:\Documents and Settings\muralidharand1\My Documents\Downloads\SharpDevelopPortable\Data\SharpDevelop Projects\Cassandra_CQL_Basics\Cassandra_CQL_Basics\bin\Debug\Cassandra_CQL_Basics.exe.config
+C:\Documents and Settings\muralidharand1\My Documents\Downloads\SharpDevelopPortable\Data\SharpDevelop Projects\Cassandra_CQL_Basics\Cassandra_CQL_Basics\bin\Debug\Cassandra_CQL_Basics.exe
+C:\Documents and Settings\muralidharand1\My Documents\Downloads\SharpDevelopPortable\Data\SharpDevelop Projects\Cassandra_CQL_Basics\Cassandra_CQL_Basics\bin\Debug\Cassandra_CQL_Basics.pdb
+C:\Documents and Settings\muralidharand1\My Documents\Downloads\SharpDevelopPortable\Data\SharpDevelop Projects\Cassandra_CQL_Basics\Cassandra_CQL_Basics\obj\x86\Debug\Cassandra_CQL_Basics.pdb
